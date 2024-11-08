@@ -1,1 +1,2 @@
-# pana-cloud-website-css-html
+"# panacloud-css-mandatory-website" 
+"# panacloud-css-starting-point" 
